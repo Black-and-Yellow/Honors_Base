@@ -2,8 +2,7 @@
 
 This project provides a GUI-based system for vehicle tracking and direction detection using different methods, including YOLO, optical flow, and blob tracking.
 
-**Features
-**
+**Features**
 Upload a video file through the GUI.
 
 Select a vehicle tracking method.
@@ -11,6 +10,9 @@ Select a vehicle tracking method.
 Process the video to track vehicles and detect their movement direction.
 
 Save results for further analysis.
+
+**Installation**
+pip install opencv-python numpy ultralytics
 
 **Usage**
 
