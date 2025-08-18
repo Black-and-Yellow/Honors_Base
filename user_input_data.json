@@ -1,0 +1,9 @@
+{
+    "video": "C:/Users/acer/Desktop/honors/Lattice-Layer-Vehicle-Detection-/Brasil6.mp4",
+    "color_channel": "V",
+    "grids": {
+        "rows": 6,
+        "cols": 6
+    },
+    "execution_mode": "Parallel"
+}
